@@ -1,0 +1,56 @@
+.container{
+display: inline-block;
+width: 100px;
+height: 100px;
+margin: 10px;
+
+
+
+}
+.inline{
+    display: inline;
+    width: 150px;
+
+
+}
+.inline-block{
+    display:inline-block;
+    width: 150;
+}
+.container div{
+background-color: aqua;
+padding: 500px;
+margin: 500px;
+
+}
+.container2 {
+    display:inline-flex;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+    background: red;
+    overflow: auto;
+}
+
+.container3 {
+justify-content: space-around;
+display: flex;
+flex-flow: wrap;
+
+
+.container3 div {
+
+    background-color: rgb(125, 100, 148);
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    
+}
+
+
+
+ 
+
+
+}
